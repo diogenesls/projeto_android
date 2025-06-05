@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "807262169831",
+    "firebase_url": "https://maniac-air-default-rtdb.firebaseio.com",
+    "project_id": "maniac-air",
+    "storage_bucket": "maniac-air.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807262169831:android:e0755a907160d89da99042",
+        "android_client_info": {
+          "package_name": "com.maniac.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYeAOAqcQLUHfmLiSy3HzpllhZO27vaPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
